@@ -1,0 +1,37 @@
+{
+  "name": "aliashic",
+  "version": "1.0.0",
+  "description": "A single Web3 / Ethereum provider solution for all Wallets",
+  "main": "./src/Web3ModalVue.vue",
+  "keywords": [
+    "qui",
+    "veritatis",
+    "crypto",
+    "sint",
+    "provident",
+    "eveniet",
+    "vueweb3",
+    "deleniti",
+    "sed",
+    "voluptatem",
+    "nihil",
+    "arkane",
+    "torus",
+    "authereum",
+    "frame"
+  ],
+  "files": [
+    "src"
+  ],
+  "author": "PearlineDavis",
+  "license": "MIT",
+  "homepage": "https://github.com/AleneMcCullough/aliashic.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleneMcCullough/aliashic.git"
+  },
+  "dependencies": {
+    "detect-browser": "^5.2.0",
+    "vue-styled-components": "^1.6.0"
+  }
+}
